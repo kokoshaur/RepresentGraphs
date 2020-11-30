@@ -29,7 +29,7 @@ namespace WpfToolkitChart
             
             ILaba<double> Laba1 = new Laba1<double>();
 
-            int i = 2;
+            int i = 1;
             switch (i)
             {
                 case 1:
